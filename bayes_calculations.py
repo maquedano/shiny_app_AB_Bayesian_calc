@@ -10,7 +10,7 @@ NUM_POSTERIOR_SAMPLES = 500000
 
 """
 Class where all the calculations are encapulated. Bayesian calculations are based on the calculator 
-developed by rjjfox (https://github.com/rjjfox/ab-test-calculator) for a streamlist application
+developed by rjjfox (https://github.com/rjjfox/ab-test-calculator) for a streamlit application
 """
 class bayesCalculations(object):
     def __init__(self):
